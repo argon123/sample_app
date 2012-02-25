@@ -10,6 +10,6 @@ class PagesController < ApplicationController
 
   def about
     @title = "About"
-    @content = "many many texts"
+    @content = "many many text"
   end
 end
